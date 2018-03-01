@@ -4,8 +4,6 @@ import java.util.NoSuchElementException;
  * Your implementation of a max priority queue.
  * 
  * @author Amani Konduru
- * @userid akonduru3
- * @GTID 903163197
  * @version 1.0
  */
 public class MaxPriorityQueue<T extends Comparable<? super T>>
