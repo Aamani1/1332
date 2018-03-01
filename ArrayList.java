@@ -1,8 +1,6 @@
 /* Your implementation of an ArrayList.
  *
  * @author Amani Konduru
- * @userid akonduru3
- * @GTID 903163197
  * @version 1
  */
 public class ArrayList<T> implements ArrayListInterface<T> {
