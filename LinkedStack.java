@@ -4,8 +4,6 @@ import java.util.NoSuchElementException;
  * Your implementation of a linked stack. It should NOT be circular.
  *
  * @author Amani Konduru
- * @userid akonduru3
- * @GTID 903163197
  * @version 1.0
  */
 public class LinkedStack<T> implements StackInterface<T> {
