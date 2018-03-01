@@ -8,8 +8,6 @@ import java.util.NoSuchElementException;
  * Your implementation of a binary search tree.
  *
  * @author Amani Konduru
- * @userid akonduru3
- * @GTID 903163197
  * @version 1.0
  */
 public class BST<T extends Comparable<? super T>> implements BSTInterface<T> {
