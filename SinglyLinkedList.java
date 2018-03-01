@@ -2,8 +2,6 @@
  * Your implementation of a circular singly linked list.
  *
  * @author Amani Konduru
- * @userid akonduru3
- * @GTID 903163197
  * @version 1.0
  */
 public class SinglyLinkedList<T> implements LinkedListInterface<T> {
