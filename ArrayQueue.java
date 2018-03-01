@@ -4,8 +4,6 @@ import java.util.NoSuchElementException;
  * Your implementation of an array-backed queue.
  *
  * @author Amani Konduru
- * @userid akonduru3
- * @GTID 903163197
  * @version 1.0
  */
 public class ArrayQueue<T> implements QueueInterface<T> {
