@@ -4,8 +4,6 @@ import java.util.NoSuchElementException;
  * Your implementation of a max heap.
  *
  * @author Amani Konduru
- * @userid akonduru3
- * @GTID 903163197)
  * @version 1.0
  */
 public class MaxHeap<T extends Comparable<? super T>>
